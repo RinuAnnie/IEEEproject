@@ -1,8 +1,8 @@
  Hi, I’m @RinuAnnie
 
-Obstacle Sensing Project
+This is my Obstacle Sensing Project implemented in Tinkercad
 
-This project, implemented in Tinkercad, utilizes an Arduino Uno R3 microcontroller along with an Ultrasonic Distance Sensor (4-pin), three LEDs (red, yellow, and green)
+This project utilizes an Arduino Uno R3 microcontroller along with an Ultrasonic Distance Sensor (4-pin), three LEDs (red, yellow, and green)
 and three 220Ω resistors to demonstrate obstacle sensing.
 
 The objective of this project is to visually represent different ranges of distances between Ultrasonic Distance Sensor and the object(obstacle) using different colored LEDs. 
